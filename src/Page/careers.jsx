@@ -4,10 +4,10 @@ const Careers = () => {
   return (
     <div className="flex flex-col my-20">
     <div className="w-full max-md:max-w-full">
-      <div className="flex gap-5 max-md:flex-col">
+      <div data-aos="fade-right" className="flex gap-5 max-md:flex-col">
         <div className="flex flex-col w-[33%] max-md:ml-0 max-md:w-full">
           <div className="flex flex-col grow text-base leading-relaxed text-neutral-700 max-md:mt-5">
-            <div className="flex flex-col items-start pt-8 pr-20 pb-4 pl-8 w-full bg-white shadow-[0px_8px_30px_rgba(2,57,87,0.15)] max-md:px-5">
+            <div data-aos="fade-right" className="flex flex-col items-start pt-8 pr-20 pb-4 pl-8 w-full bg-white shadow-[0px_8px_30px_rgba(2,57,87,0.15)] max-md:px-5">
               <div className="text-2xl font-bold leading-10 text-sky-800">
                 Senior architect
               </div>
@@ -35,7 +35,7 @@ const Careers = () => {
                 />
                 <div className="basis-auto">$9000/month</div>
               </div>
-              <div className="px-12 py-6 mt-8 font-medium text-white whitespace-nowrap max-md:px-5">
+              <div data-aos="fade-right" className="px-12 py-6 mt-8 font-medium text-white whitespace-nowrap max-md:px-5">
                 Details
               </div>
             </div>
@@ -55,7 +55,7 @@ const Careers = () => {
                 />
                 <div className="basis-auto">5+ years experience</div>
               </div>
-              <div className="flex gap-2 mt-1.5 whitespace-nowrap">
+              <div data-aos="fade-right" className="flex gap-2 mt-1.5 whitespace-nowrap">
                 <img
                   loading="lazy"
                   src="https://cdn.builder.io/api/v1/image/assets/TEMP/980e2fa0528a1d7412d21c1ae0a554fed21f9d63aff84a116ce05eebfa385eb9?placeholderIfAbsent=true&apiKey=e940a6a49e084455a40af88cc6d38123"
@@ -77,7 +77,7 @@ const Careers = () => {
             </div>
           </div>
         </div>
-        <div className="flex flex-col ml-5 w-[33%] max-md:ml-0 max-md:w-full">
+        <div data-aos="fade-right" className="flex flex-col ml-5 w-[33%] max-md:ml-0 max-md:w-full">
           <div className="flex flex-col grow text-base leading-relaxed text-neutral-700 max-md:mt-5">
             <div className="flex flex-col items-start pt-8 pr-20 pb-4 pl-8 w-full bg-white shadow-[0px_8px_30px_rgba(2,57,87,0.15)] max-md:px-5">
               <div className="text-2xl font-bold leading-10 text-sky-800">
@@ -99,7 +99,7 @@ const Careers = () => {
                 />
                 <div>Full-time</div>
               </div>
-              <div className="flex gap-2 mt-1.5 whitespace-nowrap">
+              <div data-aos="fade-right" className="flex gap-2 mt-1.5 whitespace-nowrap">
                 <img
                   loading="lazy"
                   src="https://cdn.builder.io/api/v1/image/assets/TEMP/c5266a67ae769329fefc19648d05d38e7ac18c35a355a0751112633d528141db?placeholderIfAbsent=true&apiKey=e940a6a49e084455a40af88cc6d38123"
@@ -115,7 +115,7 @@ const Careers = () => {
         </div>
       </div>
     </div>
-    <div className="mt-24 w-full max-md:mt-10 max-md:max-w-full">
+    <div data-aos="fade-right" className="mt-24 w-full max-md:mt-10 max-md:max-w-full">
       <div className="flex gap-5 max-md:flex-col">
         <div className="flex flex-col w-[33%] max-md:ml-0 max-md:w-full">
           <div className="flex flex-col grow text-base leading-relaxed text-neutral-700 max-md:mt-5">
@@ -131,7 +131,7 @@ const Careers = () => {
                 />
                 <div className="basis-auto">5+ years experience</div>
               </div>
-              <div className="flex gap-2 mt-1.5 whitespace-nowrap">
+              <div data-aos="fade-right" className="flex gap-2 mt-1.5 whitespace-nowrap">
                 <img
                   loading="lazy"
                   src="https://cdn.builder.io/api/v1/image/assets/TEMP/a68107f273e46e3941b6622f02859f74ada75a2684e849a99bc39bd938ec6bd8?placeholderIfAbsent=true&apiKey=e940a6a49e084455a40af88cc6d38123"
@@ -153,7 +153,7 @@ const Careers = () => {
             </div>
           </div>
         </div>
-        <div className="flex flex-col ml-5 w-[33%] max-md:ml-0 max-md:w-full">
+        <div data-aos="fade-right" className="flex flex-col ml-5 w-[33%] max-md:ml-0 max-md:w-full">
           <div className="flex flex-col grow text-base leading-relaxed text-neutral-700 max-md:mt-5">
             <div className="flex flex-col items-start pt-8 pr-20 pb-4 pl-8 w-full bg-white shadow-[0px_8px_30px_rgba(2,57,87,0.15)] max-md:px-5">
               <div className="text-2xl font-bold leading-10 text-sky-800">

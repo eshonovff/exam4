@@ -36,13 +36,13 @@ const Contact = () => {
       </div>
     </div>
      
-    <div className="flex flex-col mt-20   justify-center ">
+    <div data-aos="fade-up-left" className="flex flex-col mt-20   justify-center ">
       <div className="w-full text-2xl font-bold text-center leading-10 text-sky-800 max-md:max-w-full">
         Or contact us via e-mails or even mobile call or Whatsapp messages
       </div>
-      <div className="flex flex-wrap gap-5 justify-between self-center mt-8 max-w-full text-base font-medium leading-relaxed text-white whitespace-nowrap w-[538px]">
+      <div data-aos="fade-up-left" className="flex flex-wrap gap-5 justify-between self-center mt-8 max-w-full text-base font-medium leading-relaxed text-white whitespace-nowrap w-[538px]">
         <div className="px-12 py-6 bg-[#056088] max-md:px-5">E-mails</div>
-        <div className="px-9 py-6 bg-[#056088] max-md:px-5">Whatsapp</div>
+        <div data-aos="fade-up-left" className="px-9 py-6 bg-[#056088] max-md:px-5">Whatsapp</div>
         <div className="px-11 py-6  bg-[#056088] max-md:px-5">Message</div>
       </div>
     </div>

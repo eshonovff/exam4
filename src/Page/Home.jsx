@@ -6,12 +6,20 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 
 import './home.css';
+import AOS from "aos";
+import "aos/dist/aos.css";
 
 // import required modules
 import { Pagination } from 'swiper/modules';
+import { useEffect } from "react";
 
 const Homeus = () => {
   const { t } = useTranslation();
+  useEffect(() => {
+    AOS.init();
+    AOS.refresh();
+  }, []);
+
   return (
     <div className="py-14 px-10 sm:px-2">
       <div className="flex gap-5 sm:flex-wrap sm:justify-center max-md:flex-col">
@@ -43,7 +51,7 @@ const Homeus = () => {
         </div>
       </div>
 
-      <div className="flex flex-col items-center py-10">
+      <div data-aos="fade-up" className="flex flex-col items-center py-10">
         <div className="ml-5 text-2xl font-bold leading-10 text-sky-800">
          {t("Home.secton1.Our services")}
         </div>
@@ -353,7 +361,7 @@ const Homeus = () => {
           </div>
         </div>
       </div>
-      <div className="py-16 ">
+      <div data-aos="fade-up" className="py-16 ">
         <>
           <Swiper
             slidesPerView={1}
@@ -408,7 +416,7 @@ const Homeus = () => {
       </div>
     </div>
 
-    <div className="flex flex-col py-10 text-base font-medium">
+    <div data-aos="fade-up" className="flex flex-col py-10 text-base font-medium">
       <div className="flex relative flex-col justify-center items-center px-20 py-14 w-full min-h-[428px] max-md:px-5 max-md:max-w-full">
         <img
           loading="lazy"
