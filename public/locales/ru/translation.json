@@ -1,0 +1,37 @@
+{
+  "Home": "Главная",
+  "About": "О нас",
+  "Pages": "Стра..",
+  "Shop": "Магазин",
+  "Project": "Проект",
+  "News": "Новости",
+  "header":{
+    "p":"100% Натуральная пища",
+    "h1":"Выберите лучший и здоровый образ жизни",
+    "Button":"Исследуйте прямо сейчас"
+  },
+   "section2":{
+    "img1":{
+      "p":"Естественно!!",
+      "h1":"Получите свежие фрукты из сада"
+    },
+    "img2":{
+        "p":"Предложение!!",
+        "h1":"Получите скидку 10% на овощи"
+    }
+  },
+  "section3":{
+    "h2":"About Us",
+    "h1":"We Believe in Working Accredited Farmers",
+    "p":"Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+    "img1":{
+      "h1":"Organic Foods Only",
+      "p":"Simply dummy text of the printing and typesetting industry. Lorem Ipsum"
+    },
+    "img2":{
+        "h1":"Quality Standards",
+        "p":"Simply dummy text of the printing and typesetting industry. Lorem Ipsum"
+    },
+    "Button":"Shop Now"
+  }
+}

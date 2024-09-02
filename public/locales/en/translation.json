@@ -1,0 +1,42 @@
+{
+  "header": {
+    "nav": {
+      "Home": "Home",
+      "About": "About",
+      "Services": "Services",
+      "Gallery": "Gallery",
+      "Contact": "Contact",
+      "Story": "Story",
+      "Careers": "Careers",
+      "News": "News"
+    },
+    "h1": "About our story - We are the best team"
+  },
+  "Home": {
+    "secton1": {
+      "h1": "Our company",
+      "p": "Debuilds is a team of architects, interior design, and contractors who help our clients not only to build their dream building, but also to feel comfortable after the building is used.",
+      "p1":"We already handled",
+      "Clients":"Clients",
+      "House":"House",
+      "Building":"Building",
+      "See more":"See more",
+      "Our services":"Our services",
+      "include":"Our services include building new buildings and renovating old buildings",
+      "Design":"Design building/house",
+      "We have":"We have an architect for design new buildings",
+      "Interior ":"Interior Design",
+      "designer ":"We have an interior designer for design your perfect inside house",
+      "Build":"Build from scratch",
+      "contractor":"We have an contractor for build new building from scratch",
+      "Renovation":"Renovation",
+      "renovate":"We can also renovate or rebuilds new buildings/house"
+
+
+    },
+    "secton2":{
+      "h1":"Our benefits",
+      "p":"Here our benefits if you collaboration with our team"
+    }
+  }
+}
